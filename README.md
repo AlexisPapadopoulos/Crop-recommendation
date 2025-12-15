@@ -1,10 +1,3 @@
-Below is a **cleaned, consistent, and GitHub-ready README.md version** of your text.
-I’ve **fixed structure, clarity, grammar, and formatting**, and **removed the unrelated “happiness” analysis**, which appeared to be from a different project and would confuse readers.
-
-You can copy-paste this directly into a `README.md` file.
-
----
-
 # Crop Recommendation Using Classification and Regression Models
 
 ## Introduction
@@ -116,10 +109,3 @@ Future work may include:
 * Deploying the model as a web or mobile application
 
 ---
-
-If you want, I can also:
-
-* Add **badges** (Python, scikit-learn, Kaggle, etc.)
-* Write a **requirements.txt** section
-* Simplify this for a **course submission**
-* Rewrite it for a **portfolio
